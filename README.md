@@ -7,6 +7,8 @@
 ## What is it? 
 Reladomo is an object-relational mapping framework with the following enterprise features:
 
+## One change
+
 * Strongly typed compile-time checked query language 
 * Bi-temporal chaining 
 * Transparent multi-schema support 
